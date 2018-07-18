@@ -32,7 +32,14 @@ Be forewarned: it's designed for developers and early adopters, and can sometime
 * Eager Evaluation
 * Argument hints
 * Function autocompletion
-* await
+* ES7 (await)
+
+
+
+## Snippets
+
+* Create a snippets
+* Use snippets from prompt
 
 
 
